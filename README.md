@@ -56,6 +56,7 @@ Try it yourself:
 - Command: join Germany_Japan
 - Command: report ./data/events1.json
 - Command: summary Germany_Japan user ./data/test
-- Command: report ./data/events1.json
+- Command: exit Germany_Japan
+- Command: logout
   
 
